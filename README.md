@@ -73,6 +73,7 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 
 ### Datos Abiertos, Gobierno y Transparencia
 
+- [enighur-2025-analisis](https://github.com/LuisReinoso/enighur-2025-analisis) - Análisis reproducible de microdatos ENIGHUR 2024-2025 (INEC). Desmonta el mito del ingreso promedio: 65,8% de hogares gana menos que la media de $1.135, mediana real $838. Python, datos CC BY 4.0, sitio con gráficos.
 - [EcuDataMCP](https://github.com/DweskZ/EcuDataMCP) - Servidor MCP para que IAs (Claude, ChatGPT, Gemini, Cursor) consulten datos abiertos de Ecuador. Unifica CKAN (1,581 datasets de 98+ instituciones), trámites de gob.ec y 18 categorías temáticas. 11 tools: búsqueda, preview de CSVs, consulta de trámites (RUC, pasaporte, cédula), sin API key. Docker, Python, MIT.
 - [osint-api](https://github.com/daxrpm/osint-api) - API para investigar datos abiertos en Ecuador.
 - [data-explorer-ecuador](https://github.com/odmoreno/data-explorer-ecuador) - Exploración de iniciativas de parlamento abierto en Ecuador usando tecnología.
