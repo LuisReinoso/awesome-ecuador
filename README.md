@@ -12,6 +12,7 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [Proyectos Open Source](#proyectos-open-source)
   - [Facturación Electrónica / SRI](#facturación-electrónica--sri)
   - [Datos Abiertos, Gobierno y Transparencia](#datos-abiertos-gobierno-y-transparencia)
+  - [Gobierno Electrónico](#gobierno-electrónico)
   - [MCP / AI Agents](#mcp--ai-agents)
   - [Comercio y Turismo](#comercio-y-turismo)
   - [Educación](#educacion)
@@ -42,6 +43,7 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [Datos Abiertos Ecuador](https://www.datosabiertos.gob.ec/) - Portal oficial del gobierno: 1500+ datasets de 98+ instituciones.
 - [Open Knowledge Foundation Ecuador (OKF Ecuador)](https://ec.okfn.org/) - Nodo ecuatoriano de la red global Open Knowledge Foundation, promueve datos y conocimiento abierto.
 - [Asamblea Abierta](https://luisreinoso.dev/asamblea-abierta/) ([código](https://github.com/LuisReinoso/asamblea-abierta)) - Plataforma de transparencia legislativa: transcribe, diariza e identifica oradores en las sesiones de la Asamblea Nacional usando modelos de IA 100% locales (Whisper, pyannote, PaddleOCR), sin APIs de pago.
+- [Minka](https://minka.gob.ec/) - Instancia oficial de GitLab del gobierno ecuatoriano (MINTEL): forja de código abierto donde ministerios y entidades públicas publican su software (FirmaEC, Quipux, gob.ec, entre otros).
 
 ## Proyectos Open Source
 
@@ -79,6 +81,18 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [data-explorer-ecuador](https://github.com/odmoreno/data-explorer-ecuador) - Exploración de iniciativas de parlamento abierto en Ecuador usando tecnología.
 - [ecuador-administrative-divisions](https://github.com/open-admin-data/ecuador-administrative-divisions) - Divisiones administrativas de Ecuador: 24 provincias, 221 cantones, 1042 parroquias — datos abiertos.
 - [ecuadorian-legal-codes](https://github.com/alicelabs-llc/ecuadorian-legal-codes) - Legislación ecuatoriana en JSON legible por máquina: COIP, COGEP, CC, CT, CRE, CNJ (3,847+ artículos). Ideal para RAG legal, compliance, NLP y fine-tuning de LLMs. MIT.
+
+### Gobierno Electrónico
+
+Software público desarrollado por MINTEL y otras entidades del Estado ecuatoriano, alojado en [Minka](https://minka.gob.ec/), la forja de código abierto del gobierno.
+
+- [CTI - cti-app](https://minka.gob.ec/mintel/ge/cti/cti-app) - Nueva versión del Sistema de Contratación de Tecnologías de la Información del Estado ecuatoriano (en desarrollo).
+- [FirmaEC - firmadigital-api](https://minka.gob.ec/mintel/ge/firmaec/firmadigital-api) - Servicio que conecta el firmador standalone de FirmaEC con los sistemas requirentes.
+- [FirmaEC - firmadigital-libreria](https://minka.gob.ec/mintel/ge/firmaec/firmadigital-libreria) - Librería core de firma digital: firma, verifica documentos y valida certificados emitidos por Entidades Certificadoras del Ecuador. GNU AGPL v3.
+- [FirmaEC - firmadigital-servicio](https://minka.gob.ec/mintel/ge/firmaec/firmadigital-servicio) - Servicio que comunica FirmaEC con el sistema requirente para la firma digital de documentos.
+- [gob.ec (gobec)](https://minka.gob.ec/mintel/ge/rutr/gobec) - Módulo Drupal base de la plataforma gob.ec: gestiona trámites, instituciones y regulaciones del Ecuador.
+- [gobec_forms](https://minka.gob.ec/mintel/ge/rutr/gobec_forms) - Módulo de digitalización de formularios y trámites de la plataforma Gob.ec.
+- [Quipux - quipux-app](https://minka.gob.ec/mintel/ge/quipux/quipux-app) - Sistema core de gestión documental usado por instituciones públicas ecuatorianas. GNU AGPL v3.
 
 ### MCP / AI Agents
 
