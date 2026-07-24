@@ -2,7 +2,7 @@
 
 > Una lista curada de comunidades, proyectos open source, empresas, eventos y recursos del ecosistema tecnológico de Ecuador.
 
-Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome). Si conocés algo que debería estar acá, mandá un PR — ver [CONTRIBUTING.md](CONTRIBUTING.md).
+Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome). Si conoces algo que debería estar acá, manda un PR — ver [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contenido
 
@@ -139,4 +139,4 @@ Software público desarrollado por MINTEL y otras entidades del Estado ecuatoria
 
 ## Licencia
 
-[CC0](LICENSE) - Dominio público. Copiá, adaptá, usá como quieras.
+[CC0](LICENSE) - Dominio público. Copia, adapta, usa como quieras.
