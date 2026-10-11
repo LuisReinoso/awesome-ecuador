@@ -84,7 +84,7 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [data-explorer-ecuador](https://github.com/odmoreno/data-explorer-ecuador) - Exploración de iniciativas de parlamento abierto en Ecuador usando tecnología.
 - [ecuador-administrative-divisions](https://github.com/open-admin-data/ecuador-administrative-divisions) - Divisiones administrativas de Ecuador: 24 provincias, 221 cantones, 1042 parroquias — datos abiertos.
 - [ecuadorian-legal-codes](https://github.com/alicelabs-llc/ecuadorian-legal-codes) - Legislación ecuatoriana en JSON legible por máquina: COIP, COGEP, CC, CT, CRE, CNJ (3,847+ artículos). Ideal para RAG legal, compliance, NLP y fine-tuning de LLMs. MIT.
-- [Ojo al Gasto](https://github.com/LuisReinoso/ojo-al-gasto) - Control ciudadano de las compras públicas municipales: cruza datos del SERCOP y la LOTAIP, genera alertas con base legal y preguntas para las entidades. Python, MIT.
+- [Ojo al Gasto](https://luisreinoso.dev/ojo-al-gasto/) ([código](https://github.com/LuisReinoso/ojo-al-gasto)) - Control ciudadano de las compras públicas municipales: cruza datos del SERCOP y la LOTAIP, genera alertas con base legal y preguntas para las entidades. Python, MIT.
 - [vehicle-catalog-ec](https://github.com/CharlieCardenasToledo/vehicle-catalog-ec) - API estática y gratuita del catálogo de vehículos de Ecuador, con datos abiertos del SRI. MIT.
 - [voto-territorial-ecuador](https://github.com/Michaeljo112/voto-territorial-ecuador) - Datos y código reproducible sobre territorio, condiciones socioeconómicas y voto a nivel parroquial (INEC 2022, CNE 2025). MIT.
 
