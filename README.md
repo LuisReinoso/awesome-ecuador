@@ -2,7 +2,7 @@
 
 > Una lista curada de comunidades, proyectos open source, empresas, eventos y recursos del ecosistema tecnológico de Ecuador.
 
-Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome). Si conoces algo que debería estar acá, manda un PR — ver [CONTRIBUTING.md](CONTRIBUTING.md).
+Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome). Si conoces algo que debería estar aquí, envía un PR. Revisa [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contenido
 
