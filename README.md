@@ -44,6 +44,9 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [Open Knowledge Foundation Ecuador (OKF Ecuador)](https://ec.okfn.org/) - Nodo ecuatoriano de la red global Open Knowledge Foundation, promueve datos y conocimiento abierto.
 - [Asamblea Abierta](https://luisreinoso.dev/asamblea-abierta/) ([código](https://github.com/LuisReinoso/asamblea-abierta)) - Plataforma de transparencia legislativa: transcribe, diariza e identifica oradores en las sesiones de la Asamblea Nacional usando modelos de IA 100% locales (Whisper, pyannote, PaddleOCR), sin APIs de pago.
 - [Minka](https://minka.gob.ec/) - Instancia oficial de GitLab del gobierno ecuatoriano (MINTEL): forja de código abierto donde ministerios y entidades públicas publican su software (FirmaEC, Quipux, gob.ec, entre otros).
+- [Contrataciones Abiertas Ecuador](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA) - Plataforma oficial del SERCOP: todos los procesos de contratación pública desde 2015 en el estándar OCDS, con API y descarga masiva.
+- [Observatorio de Contratación Pública](https://www.contratostransparentes.ec/) - Fundación Ciudadanía y Desarrollo: banderas rojas e índices de riesgo de la contratación pública con datos del SERCOP.
+- [Portal Nacional de Transparencia](https://transparencia.dpe.gob.ec/) - Defensoría del Pueblo: publicaciones LOTAIP mensuales de cada entidad y estadísticas de solicitudes de acceso a la información.
 
 ## Proyectos Open Source
 
@@ -81,6 +84,9 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [data-explorer-ecuador](https://github.com/odmoreno/data-explorer-ecuador) - Exploración de iniciativas de parlamento abierto en Ecuador usando tecnología.
 - [ecuador-administrative-divisions](https://github.com/open-admin-data/ecuador-administrative-divisions) - Divisiones administrativas de Ecuador: 24 provincias, 221 cantones, 1042 parroquias — datos abiertos.
 - [ecuadorian-legal-codes](https://github.com/alicelabs-llc/ecuadorian-legal-codes) - Legislación ecuatoriana en JSON legible por máquina: COIP, COGEP, CC, CT, CRE, CNJ (3,847+ artículos). Ideal para RAG legal, compliance, NLP y fine-tuning de LLMs. MIT.
+- [Ojo al Gasto](https://github.com/LuisReinoso/ojo-al-gasto) - Control ciudadano de las compras públicas municipales: cruza datos del SERCOP y la LOTAIP, genera alertas con base legal y preguntas para las entidades. Python, MIT.
+- [vehicle-catalog-ec](https://github.com/CharlieCardenasToledo/vehicle-catalog-ec) - API estática y gratuita del catálogo de vehículos de Ecuador, con datos abiertos del SRI. MIT.
+- [voto-territorial-ecuador](https://github.com/Michaeljo112/voto-territorial-ecuador) - Datos y código reproducible sobre territorio, condiciones socioeconómicas y voto a nivel parroquial (INEC 2022, CNE 2025). MIT.
 
 ### Gobierno Electrónico
 
