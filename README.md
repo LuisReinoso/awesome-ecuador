@@ -9,6 +9,11 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [Comunidades](#comunidades)
 - [Eventos y Conferencias](#eventos-y-conferencias)
 - [Gobierno Abierto, Datos Abiertos y Transparencia](#gobierno-abierto-datos-abiertos-y-transparencia)
+- [Periodismo y Auditoría Ciudadana](#periodismo-y-auditoría-ciudadana)
+  - [Datos y portales oficiales](#datos-y-portales-oficiales)
+  - [Organizaciones y medios](#organizaciones-y-medios)
+  - [Herramientas globales](#herramientas-globales)
+  - [Código abierto](#código-abierto)
 - [Proyectos Open Source](#proyectos-open-source)
   - [Facturación Electrónica / SRI](#facturación-electrónica--sri)
   - [Datos Abiertos, Gobierno y Transparencia](#datos-abiertos-gobierno-y-transparencia)
@@ -47,6 +52,50 @@ Inspirada en el formato [awesome-list](https://github.com/sindresorhus/awesome).
 - [Contrataciones Abiertas Ecuador](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA) - Plataforma oficial del SERCOP: todos los procesos de contratación pública desde 2015 en el estándar OCDS, con API y descarga masiva.
 - [Observatorio de Contratación Pública](https://www.contratostransparentes.ec/) - Fundación Ciudadanía y Desarrollo: banderas rojas e índices de riesgo de la contratación pública con datos del SERCOP.
 - [Portal Nacional de Transparencia](https://transparencia.dpe.gob.ec/) - Defensoría del Pueblo: publicaciones LOTAIP mensuales de cada entidad y estadísticas de solicitudes de acceso a la información.
+
+## Periodismo y Auditoría Ciudadana
+
+Fuentes, organizaciones y herramientas para que periodistas y ciudadanía revisen cómo se gasta y se decide en el sector público ecuatoriano.
+
+### Datos y portales oficiales
+
+- [Buscador de la Corte Constitucional](https://buscador.corteconstitucional.gob.ec/) - Buscador de sentencias, causas y dictámenes de la Corte Constitucional del Ecuador.
+- [Consulta de compañías (Superintendencia de Compañías)](https://appscvsgen.supercias.gob.ec/consultaCompanias/societario/busquedaCompanias.jsf) - Portal de información para consultar compañías por número de expediente, RUC o nombre.
+- [Consulta de procesos judiciales (Función Judicial)](https://procesosjudiciales.funcionjudicial.gob.ec/) - Consulta externa de procesos judiciales de la Función Judicial.
+- [Datasets del SRI](https://www.sri.gob.ec/datasets) - Datos abiertos del Servicio de Rentas Internas: catastro del RUC por provincia, listado de empresas fantasmas y recaudación por impuesto, provincia y actividad económica, entre otros.
+- [Declaraciones patrimoniales juradas (Contraloría)](https://www.contraloria.gob.ec/Consultas/DeclaracionesJuradas) - Consulta de declaraciones patrimoniales juradas por cédula, nombres o entidad.
+- [Ejecución Presupuestaria del PGE](https://www.economicoproductivo.gob.ec/ejecucion-presupuestaria/) - Tablero de ejecución del Presupuesto General del Estado con notas metodológicas y metadatos en el catálogo ANDA del INEC (antes en finanzas.gob.ec).
+- [Informes de auditoría aprobados (Contraloría)](https://www.contraloria.gob.ec/Consultas/InformesAprobados) - Consulta de los informes de auditoría aprobados por la Contraloría General del Estado, por delegación provincial.
+- [Proyectos de Ley (Asamblea Nacional)](https://proyectosdeley.asambleanacional.gob.ec/report) - Sistema de consulta de proyectos de ley con filtros de búsqueda y exportación a CSV y Excel.
+- [Rendición de Cuentas: Consulta Ciudadana (CPCCS)](https://systempro.cpccs.gob.ec/rendicion/) - Consulta de los informes de rendición de cuentas de instituciones y autoridades, y del catastro de instituciones obligadas.
+- [SOCE: Búsqueda de procesos de contratación](https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/PC/buscarProceso.cpe) - Buscador público del Sistema Oficial de Contratación Pública por palabra clave, entidad contratante, tipo de contratación, tipo de compra y estado.
+- [Votaciones del Pleno (Asamblea Nacional)](https://colabora.asambleanacional.gob.ec/s/3HWYXRqyW4sx8dk) - Archivo descargable (ZIP de 334 MB) con las votaciones del Pleno organizadas por año, mes y sesión.
+
+### Organizaciones y medios
+
+- [Código Vidrio](https://www.codigovidrio.com/code/) - Medio digital de periodismo de investigación con series sobre Odebrecht, corrupción durante el Covid-19 y desinformación.
+- [Ecuador Chequea](https://ecuadorchequea.com/) - Medio de verificación de datos que chequea el discurso público y los contenidos virales, y publica investigaciones como "Alcaldes y prefectos bajo la lupa".
+- [Fundación Ciudadanía y Desarrollo](https://www.ciudadaniaydesarrollo.org/) - Contacto nacional de Transparencia Internacional en Ecuador. Publica informes y guías, entre ellas una para exigir una mejor gestión a los gobiernos locales.
+- [Fundamedios](https://fundamedios.org.ec/) - Defiende la libertad de expresión y de prensa con alertas sobre agresiones a periodistas, investigaciones y monitoreo de medios.
+- [GK](https://gk.city/) - Medio independiente de periodismo de profundidad que cubre derechos humanos, género, medioambiente y transparencia.
+- [La Barra Espaciadora](https://labarraespaciadora.com/) - Medio digital de crónicas y reportajes que ha investigado a autoridades seccionales al frente de empresas y sus saltos patrimoniales.
+- [Observatorio Legislativo](https://observatoriolegislativo.ec/) - Iniciativa de Fundación Ciudadanía y Desarrollo que sigue a la Asamblea Nacional con perfiles de asambleístas, cifras, análisis del voto, informes y verificación de datos.
+- [Participación Ciudadana](https://www.participacionciudadana.org/web/) - Organización que monitorea la publicidad oficial, el cumplimiento de la LOTAIP, la transparencia fiscal, la industria extractiva (Observatorio EITI) y el fondo de promoción electoral.
+- [Periodistas Sin Cadenas](https://periodistassincadenas.org/) - Organización sin fines de lucro que promueve el periodismo de investigación, coordina una red de periodistas y defiende la libertad de expresión.
+- [Plan V](https://planv.com.ec/) - Medio de investigación periodística con historias a profundidad y análisis de la actualidad ecuatoriana.
+
+### Herramientas globales
+
+- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Base de entidades offshore, accionistas e intermediarios de Panama Papers, Paradise Papers, Pandora Papers y otras filtraciones, con resultados vinculados a Ecuador.
+- [OCP Data Registry: Ecuador](https://data.open-contracting.org/es/publication/110) - Ficha de Open Contracting Partnership con los datos OCDS del SERCOP desde enero de 2015, descargables en JSON, CSV y Excel bajo licencia CC BY 3.0 EC.
+- [OpenSanctions: Ecuador](https://www.opensanctions.org/countries/ec/) - 1401 entidades vinculadas a Ecuador, entre ellas 1096 personas expuestas políticamente, sancionados y personas buscadas.
+
+### Código abierto
+
+- [ecuador-procurement-networks](https://github.com/carluiredro/ecuador-procurement-networks) - Código y datos procesados de un artículo sobre riesgo de corrupción y oferta única en las redes de contratación pública subnacional (46.279 contratos, 2015-2021).
+- [Kingfisher Collect](https://github.com/open-contracting/kingfisher-collect) - Descargador de datos OCDS de Open Contracting Partnership, con spiders para la API y la descarga masiva del SERCOP. Python, BSD-3.
+- [LUPA](https://github.com/DiegoFranciscoG/lupa) - Observatorio de 2,25 millones de procesos del SERCOP (2015-2026): precio comparado por ítem, fichas de entidades y empresas, señales de riesgo y consola SQL en el navegador. MIT.
+- [Veedor](https://github.com/DweskZ/veedor) - Radar de riesgo sobre los datos OCDS del SERCOP con 10 indicadores basados en reglas, un expediente por proceso y agentes LLM que reúnen evidencia. Demo en veedor.ruraytech.com. MIT.
 
 ## Proyectos Open Source
 
